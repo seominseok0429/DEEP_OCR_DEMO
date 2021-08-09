@@ -31,3 +31,8 @@ python3 demo.py
     <td><img alt="" src="./sample.jpeg" /></td><td><img alt="" src="./result.png" /></td>
   <tr>
 </table>
+
+---
+
+## Acknowledgment
+This code is heavily borrowed from [CRAFT](https://github.com/clovaai/CRAFT-pytorch), [deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark)
