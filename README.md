@@ -22,3 +22,10 @@ The demo code can be executed through the command below.
 ```
 python3 demo.py
 ```
+
+---
+### Result
+
+#### input
+<img src="./sample.jpeg)" width="300" height="300">
+![ex_screenshot](./result.png)
