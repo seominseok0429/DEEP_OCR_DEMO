@@ -26,6 +26,8 @@ python3 demo.py
 ---
 ### Result
 
-#### input
-<img src="./sample.jpeg)" width="300" height="300">
-![ex_screenshot](./result.png)
+<table>
+  <tr>
+    <td><img alt="" src="./sample.jpeg" /></td><td><img alt="" src="./result.png" /></td>
+  <tr>
+</table>
